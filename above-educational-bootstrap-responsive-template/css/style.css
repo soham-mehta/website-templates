@@ -84,7 +84,7 @@ header .navbar {
     padding: 0 0 0 15px;
 }
 .navbar-default .navbar-brand{
-color: #61B331;
+color: #14A;
 }
 
 header .navbar-collapse  ul.navbar-nav {
@@ -252,7 +252,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #14A085 !important;
+	color: #14A08 !important;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
@@ -292,7 +292,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #14A085;
+color: #000000;
 }
 
 
@@ -1004,7 +1004,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #14A085;
+background: #14A;
 }
 footer ul.link-list li a{
 	color: #FFFFFF;
@@ -1248,7 +1248,7 @@ background: #F9F9F9;
 .pricing-box-item .pricing-terms  h6 {
 	font-style:italic;
 	margin-top:10px;
-	color: #14A085;
+	color: #14A;
 	font-size: 22px;
 	font-family:'Noto Serif', serif;
 }
@@ -1359,7 +1359,7 @@ ul.social-network li {
 	padding:0;
 	padding-top:30px;
 	margin:20px 0 0 0;
-	background: #14A085;
+	background: #14a;
 }
 
 #sub-footer p{
