@@ -573,13 +573,13 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #14A085;
+	background: #14A;
 	position:relative;
 	margin:0;
 	padding:0;
 	color:#fefefe;
 	/* margin: 15px; */
-	border-top: 10px solid #11967C;
+	border-top: 10px solid #14A;
 }
 
 
@@ -1005,7 +1005,9 @@ ul.link-list li{
 }
 footer{
 background: #14A;
+margin-left: auto;
 }
+
 footer ul.link-list li a{
 	color: #FFFFFF;
 }
@@ -1659,6 +1661,10 @@ padding-top: 2px;
 	footer .col-lg-1, footer .col-lg-2, footer .col-lg-3, footer .col-lg-4, footer .col-lg-5, footer .col-lg-6, 
 	footer .col-lg-7, footer .col-lg-8, footer .col-lg-9, footer .col-lg-10, footer .col-lg-11, footer .col-lg-12{
 		margin-bottom:20px;
+	}
+
+	footer .col-lg-3 {
+		text-align: center;
 	}
 
 	#sub-footer ul.social-network {
